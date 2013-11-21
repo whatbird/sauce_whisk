@@ -1,4 +1,4 @@
-require "rest-client"
+require "rest_client"
 
 module SauceWhisk
   module RestRequestBuilder
